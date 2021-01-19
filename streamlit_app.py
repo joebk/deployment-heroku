@@ -6,7 +6,7 @@ import numpy as np
 
 def predict_quality():
     
-    return "hey
+    return "hey"
 
 
 st.title('Wine Quality Classifier Web App')
